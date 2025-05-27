@@ -4,10 +4,7 @@ Um projeto de biblioteca de filmes com interface moderna e funcionalidades de bu
 
 ## 📸 Demonstração
 
-![Movies Library](https://yourmovielibrary.netlify.app/)
-
-> *Obs: Altere a URL da imagem acima ou remova caso ainda não tenha uma screenshot salva no repositório.*
-
+[**Movies Library**](https://yourmovielibrary.netlify.app/)
 ---
 
 ## 🚀 Funcionalidades
