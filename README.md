@@ -24,19 +24,3 @@ Um projeto de biblioteca de filmes com interface moderna e funcionalidades de bu
 - CSS Modules ou estilo global (dependendo do projeto)
 - Fetch API
 
----
-
-## 📦 Instalação
-
-```bash
-# Clone o repositório
-git clone https://github.com/RafaelGLacerda/Movies-Library.git
-
-# Acesse a pasta do projeto
-cd Movies-Library
-
-# Instale as dependências
-npm install
-
-# Rode o projeto
-npm start
